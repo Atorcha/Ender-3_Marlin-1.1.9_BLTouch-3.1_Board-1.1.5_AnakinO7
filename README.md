@@ -13,7 +13,7 @@ Feature Changes
 enabled AUTO_BED_LEVELING_BILINEAR</br>
 enabled FIX_MOUNTED_PROBE</br>
 enabled Z_SAFE_HOMING</br>
-change drivers to TMC2208_STANDALONE
+change drivers to TMC2208_STANDALONE</br>
 change to X_PROBE_OFFSET_FROM_EXTRUDER -42</br>
 change to Y_PROBE_OFFSET_FROM_EXTRUDER -5</br>
 
