@@ -18,16 +18,19 @@ change to X_PROBE_OFFSET_FROM_EXTRUDER -42</br>
 change to Y_PROBE_OFFSET_FROM_EXTRUDER -5</br>
 change HOMING_FEEDRATE_XY (60*70)
 
-<h3>Memory Saving Options</h3>
+<h3>Memory Saving Options</h3></br>
+disable BOOTSCREEN</br>
 enabled DISABLE_M503</br>
 disabled SPEAKER</br>
 disabled ARC_SUPPORT</br>
 disabled EEPROM_CHITCHAT</br></br>
+enable AUTO_BED_LEVELING_LINEAR</br>
+enable PRINTCOUNTER SUBE AL 99%</br>
+
 
 <h3>Pruebo</h3>
-enable AUTO_BED_LEVELING_LINEAR
 
-<b>Flash Memory Usage:</b> 98% (127 Kb)</br>
+<b>Flash Memory Usage:</b> 97% (127076 bytes)</br>
 <b>Variable Memory Usage:</b> 29% (4.79 Kb)</br>
 
 ABL Probe Configurations
