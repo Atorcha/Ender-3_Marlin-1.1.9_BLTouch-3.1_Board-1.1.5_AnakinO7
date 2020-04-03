@@ -26,7 +26,11 @@ disabled ARC_SUPPORT</br>
 disabled EEPROM_CHITCHAT</br></br>
 enable AUTO_BED_LEVELING_LINEAR</br>
 enable PRINTCOUNTER SUBE AL 99%</br>
-
+enable #define SLIM_LCD_MENUS</br>
+enable "BABYSTEPPING" in Configuration_adv.h</br>
+enable "BABYSTEP_ZPROBE_OFFSET" in Configuration_adv.h</br>
+enable "BABYSTEP_ZPROBE_GFX_OVERLAY" in Configuration_adv.h</br>
+disable PID_AUTOTUNE_MENU</br>
 
 <h3>Pruebo</h3>
 
