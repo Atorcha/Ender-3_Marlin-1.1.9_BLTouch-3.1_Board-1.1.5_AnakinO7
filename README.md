@@ -30,7 +30,7 @@ enable PRINTCOUNTER SUBE AL 99%</br>
 
 <h3>Pruebo</h3>
 
-<b>Flash Memory Usage:</b> 97% (127076 bytes)</br>
+<b>Flash Memory Usage:</b> 98% (128438 bytes)</br>
 <b>Variable Memory Usage:</b> 29% (4.79 Kb)</br>
 
 ABL Probe Configurations
