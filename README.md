@@ -1,6 +1,4 @@
-# ender-3-marlin-abl-firmware-1.1.9-AnakinO7
-
-Marlin Ender-3 Firmware 1.1.9 (ABL Support)
+Ender-3-marlin-abl-firmware-1.1.9-AnakinO7
 =========================
 
 This is a modified release of the latest Marlin Firmware version 1.1.9, using the stock Ender-3 configurations and added support for Auto Bed Leveling. Due to flash memory constraints on Melzi boards, several lesser used options have been disabled to create space for the ABL features.
